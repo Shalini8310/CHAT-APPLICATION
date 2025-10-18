@@ -36,3 +36,6 @@ CHAT APPLICATION
 LEARNING OUTCOMES
 
 This project helped me understand how real-time communication works on the web, how to manage data dynamically, and how to design a user-friendly interface using front-end technologies.
+
+Output:
+<img width="681" height="719" alt="Image" src="https://github.com/user-attachments/assets/4867a292-2b5d-4658-9616-061a86e737e8" />
