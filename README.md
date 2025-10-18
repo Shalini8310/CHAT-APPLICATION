@@ -15,23 +15,23 @@ CHAT APPLICATION
 
  FEATURES
 
- Real-time message sending and receiving
+ *Real-time message sending and receiving
  
- Supports multiple users in a chat room
+ *Supports multiple users in a chat room
  
- Simple and responsive design
+ *Simple and responsive design
  
- Fast and easy-to-use interface
+ *Fast and easy-to-use interface
 
  TECHNOLOGIES USED
  
- HTML5
+ *HTML5
  
- CSS3
+ *CSS3
  
- JavaScript (ES6)
+ *JavaScript (ES6)
  
- Firebase / WebSocket (for real-time chat)
+ *Firebase / WebSocket (for real-time chat)
 
 LEARNING OUTCOMES
 
